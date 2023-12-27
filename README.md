@@ -1,3 +1,6 @@
+Оригинальный репозитарий.   
+https://github.com/sparxsys/ScriptRunner-Scripts    
+
 ## Introduction
 This is a repository of some useful groovy scripts to make your life easier. There would be script on all applications supported by ScriptRunner. Of course you need ScriptRunner.
 
